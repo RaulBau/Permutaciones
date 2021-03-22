@@ -1,6 +1,6 @@
 /***
  * Nombre: Bautista Robles Raúl
- * Fecha: 17/02/2021
+ * Fecha: 01/03/2021
  * Tarea: Permutaciones
  * Materia: Estadística
 ***/
